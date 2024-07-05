@@ -14,7 +14,7 @@ This tool is based upon [Psi](https://github.com/TechieGamer1/Psi) .This is a te
 ### Try it at [@TechieCamHackerBot](https://t.me/TechieGamer)
 
 
-[![Run on Repl.it](https://repl.it/badge/github/TechieGamer1/TrackDown)](https://repl.it/github/TechieGamer1/TrackDown)
+[![Run on Repl.it](https://repl.it/badge/github.com/Sarkaaut/CamHackBot)](https://repl.it/github.com/Sarkaaut/CamHackBot)
  
 #### Video Tutorial 
 
